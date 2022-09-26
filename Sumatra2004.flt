@@ -1,0 +1,4 @@
+; Kowalik et al. 2005, 2007 Sumatra Dic 2004 source model
+-location 94.4 3.0 8.0 -refpos BT -strike 335 -dip 8 -rake 110 -size 300 200 -slip 13 -rigidity 4.2e10
+-location 93.3 5.6 8.0 -refpos BT -strike 350 -dip 8 -rake 90 -size 700 200 -slip 13 -rigidity 4.2e10
+

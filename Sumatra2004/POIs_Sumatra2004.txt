@@ -1,4 +1,3 @@
-; Stations names longitude latitude - Rabinovich and Thomson (2007)
 Cocos_Islands     96.88 -12.13
 Colombo           79.83  06.93 
 Hanimaadhoo       73.18  06.77 
